@@ -3,6 +3,9 @@
 <h3 align="center"> Julio Teixeira</h3>
 <h4 align="center">cursando tecnico em informatica, conhecimentos basicos em hardware, redes e infraestuturas.</h4>
 
+
+![GitHub License](https://img.shields.io/github/license/julioteixeeira/senac-tat)
+
 <!--
 **julioteixeeira/julioteixeeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
