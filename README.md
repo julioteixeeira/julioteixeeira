@@ -1,7 +1,7 @@
 ![](banner.jpg)
 <h1 align="center">Sou um aluno de TI apaixonado por tecnologia e desenvolvimento de solftware. Estou sempre buscando aprender e melhorar minhas habilidades!<?h1>
 <h3 align="center"> Julio Teixeira</h3>
-<h4 align="center">cursando tecnico em informatica, conhecimentos basicos em hardware, redes e infraestuturas.</h4>
+<h4 align="center">Cursando tecnico em informatica, conhecimentos basicos em hardware, redes e infraestuturas.</h4>
 
 
 <!--
